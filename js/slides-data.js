@@ -251,7 +251,7 @@ const slidesData = [
         
         <div class="two-column">
           <div class="column content pr-8">
-            <p class="mb-4">Sr. Barbara Reid shares her journey in understanding this parable from different perspectives:</p>
+            <p class="mb-4">A journey in understanding this parable from different perspectives:</p>
             
             <div class="mb-6">
               <h3 class="text-xl font-bold text-accent mb-2">Initial Discomfort:</h3>
