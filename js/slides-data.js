@@ -9,10 +9,10 @@ const slidesData = [
         <div class="bg-black bg-opacity-50 p-8 rounded-lg">
           <h1 class="mb-6">Pilgrims of Hope</h1>
           <h2 class="mb-8">A Biblical Reflection - Jubilee 2025</h2>
-          <p class="text-2xl mb-4">Sr. Barbara Reid, O.P., Ph.D.</p>
-          <p class="text-xl">Dominican Sister of Grand Rapids</p>
-          <p class="text-xl">President and Distinguished Professor of New Testament Studies</p>
-          <p class="text-xl">Catholic Theological Union</p>
+          <p class="text-2xl mb-4"></p>
+          <p class="text-xl"></p>
+          <p class="text-xl"></p>
+          <p class="text-xl"></p>
         </div>
         <img src="images/jubilee_logo2.jpg" alt="Jubilee 2025 Logo" class="logo">
       </div>
