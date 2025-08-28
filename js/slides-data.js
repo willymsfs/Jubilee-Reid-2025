@@ -9,9 +9,9 @@ const slidesData = [
         <div class="bg-black bg-opacity-50 p-8 rounded-lg">
           <h1 class="mb-6">Pilgrims of Hope</h1>
           <h2 class="mb-8">A Biblical Reflection - Jubilee 2025</h2>
-          <p class="text-2xl mb-4"></p>
-          <p class="text-xl"></p>
-          <p class="text-xl"></p>
+          <p class="text-2xl mb-4">Dynamism of Jubilee: A Theological Exploration of Jubilee as Pilgrims of Hope</p>
+          <p class="text-xl">St Anns Sisters Recollection</p>
+          <p class="text-xl">28-08-2025</p>
           <p class="text-xl"></p>
         </div>
         <img src="images/jubilee_logo2.jpg" alt="Jubilee 2025 Logo" class="logo">
